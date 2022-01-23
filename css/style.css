@@ -31,4 +31,16 @@
     width: 25px;
     height: 25px;
 }
+.casual{
+    font-size: 45px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+}
+.card{
+    border-radius: 20px;
+}
+.cardimg{
+    background-color:#F1F1F1;
+    border-radius: 20px;
+}
 /* font-family: 'Bebas Neue', cursive; */
